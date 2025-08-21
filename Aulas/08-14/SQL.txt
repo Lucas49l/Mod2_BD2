@@ -1,0 +1,12 @@
+SQL
+
+DDL: Linguagem de Estrutura
+	CREATE, ALTER, DROP
+
+DML: Linguagem de manipulação
+	INSERT, UPDATE, DELETE
+
+DQL: Linguagem de Consulta
+	SELECT
+
+
